@@ -12,3 +12,5 @@ Romeo ist heimlich in Julia verliebt, welche aus der verfeindeten Familie der Ca
 
 So wie es Romeo gesagt hat:
 > Kein Hindernis aus Stein hält Liebe auf, was Liebe kann das wagt sie auch.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Romeo_and_juliet_brown.jpg"/>
