@@ -8,3 +8,7 @@ Romeo ist heimlich in Julia verliebt, welche aus der verfeindeten Familie der Ca
 * Hat lange Haare
 * Ist stehts etwas verträumt
 * Würde für die Liebe alles tun
+
+
+So wie es Romeo gesagt hat:
+> Kein Hindernis aus Stein hält Liebe auf, was Liebe kann das wagt sie auch.
